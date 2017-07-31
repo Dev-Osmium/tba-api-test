@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Dev-Osmium/tba-api-test#readme",
   "dependencies": {
+    "request": "^2.81.0",
     "thebluealliance": "^1.2.3"
-  }
+  },
+  "devDependencies": {}
 }
